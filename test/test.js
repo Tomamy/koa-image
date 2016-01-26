@@ -1,4 +1,4 @@
-var koaImage = require("../koa-image.js");
+var koaImage = require("../");
 var co = require("co");
 var gen = function *(){
     var dimensions = yield koaImage.getSize("node.jpg");
