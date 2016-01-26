@@ -1,0 +1,29 @@
+{
+  "name": "koa-image",
+  "version": "1.0.0",
+  "description": "image for koajs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomamy/koa-image.git"
+  },
+  "keywords": [
+    "koa",
+    "image",
+    "size",
+    "koa-image",
+    "koa-imagesize"
+  ],
+  "author": "Tomamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomamy/koa-image/issues"
+  },
+  "homepage": "https://github.com/Tomamy/koa-image#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "image-size": "^0.4.0"
+  }
+}
